@@ -29,10 +29,3 @@ tablica = []
 wypelnij_tablice(tablica, rozmiar)
 szukana = int(input("Jaka liczbe chcesz znalezc: "))
 wypisz_tablice(tablica, rozmiar, szukana)
-
-
-
-
-
-
-
